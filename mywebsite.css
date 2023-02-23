@@ -96,7 +96,7 @@ header .container nav{
     letter-spacing: 2px;
     margin: 0;
     margin-bottom: 15px;
-    justify-content: ;
+    /* justify-content:centre; */
 }
 .banner-container .left-section p{
     font-size: 20px;
@@ -155,7 +155,6 @@ header .container nav{
 
 .banner-container .right-section .input-group input:valid {
     border:1px solid var(--primary-color);
-    )
 }
 
 .banner-container .right-section .input-group input:focus ~ #checkboxlabel{
